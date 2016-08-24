@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RefreshListView</string>
+
+    <string name="refresh_listview_header_ready">松开刷新</string>
+    <string name="refresh_listview_header_normal">下拉刷新</string>
+    <string name="refresh_listview_header_refreshing">正在刷新，请稍后</string>
+
+    <string name="refresh_listview_footer_ready">松开加载</string>
+    <string name="refresh_listview_footer_normal">加载更多</string>
+    <string name="refresh_listview_footer_loading">正在加载，请稍后</string>
+</resources>
